@@ -1,0 +1,12 @@
+pyttsx3
+speech_recognition as sr
+random
+webbrowser
+datetime
+time
+pywhatkit as pwk
+from winotify import Notification,audio
+pyautogui
+from contacts import send_whatsapp_message
+wikipedia
+inflect
